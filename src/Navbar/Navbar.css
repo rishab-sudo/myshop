@@ -1,0 +1,19 @@
+.navbar-brand{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: poppins;
+}
+.navitems{
+display: flex;
+
+}
+.navlinks_div{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: auto;
+    font-weight: 600;
+    font-family: poppins;
+    font-size: 20px;
+
+}
